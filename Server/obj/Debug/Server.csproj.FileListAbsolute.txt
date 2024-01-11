@@ -1,7 +1,0 @@
-C:\Users\ЭОМ3\source\repos\MyFirstGame\Server\obj\Debug\Server.csproj.AssemblyReference.cache
-C:\Users\ЭОМ3\source\repos\MyFirstGame\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
-C:\Users\ЭОМ3\source\repos\MyFirstGame\Server\Server.exe.config
-C:\Users\ЭОМ3\source\repos\MyFirstGame\Server\obj\Debug\Server.exe
-C:\Users\ЭОМ3\source\repos\MyFirstGame\Server\obj\Debug\Server.pdb
-C:\Users\ЭОМ3\source\repos\MyFirstGame\Server\Server.exe
-C:\Users\ЭОМ3\source\repos\MyFirstGame\Server\Server.pdb
