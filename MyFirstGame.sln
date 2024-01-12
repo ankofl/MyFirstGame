@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{D0A1F29E-37FF-4E35-BFC4-69E28A2900ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketClient", "WebSocketClient\WebSocketClient.csproj", "{C56436AD-3891-40E9-9585-EA016926119A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{10C80E70-30BD-4CED-BE53-4D98F4126743}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketServer", "WebSocketServer\WebSocketServer.csproj", "{C233B56F-DCE8-4CCE-AD79-68B069317C6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D0A1F29E-37FF-4E35-BFC4-69E28A2900ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0A1F29E-37FF-4E35-BFC4-69E28A2900ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0A1F29E-37FF-4E35-BFC4-69E28A2900ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0A1F29E-37FF-4E35-BFC4-69E28A2900ED}.Release|Any CPU.Build.0 = Release|Any CPU
-		{10C80E70-30BD-4CED-BE53-4D98F4126743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{10C80E70-30BD-4CED-BE53-4D98F4126743}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{10C80E70-30BD-4CED-BE53-4D98F4126743}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{10C80E70-30BD-4CED-BE53-4D98F4126743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C56436AD-3891-40E9-9585-EA016926119A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56436AD-3891-40E9-9585-EA016926119A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56436AD-3891-40E9-9585-EA016926119A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56436AD-3891-40E9-9585-EA016926119A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C233B56F-DCE8-4CCE-AD79-68B069317C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C233B56F-DCE8-4CCE-AD79-68B069317C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C233B56F-DCE8-4CCE-AD79-68B069317C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C233B56F-DCE8-4CCE-AD79-68B069317C6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
