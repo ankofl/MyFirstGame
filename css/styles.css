@@ -10,6 +10,7 @@ body {
 	text-align: center;
 }
 
+
 .buttons {
 	display: flex;
 	justify-content: center;
@@ -50,7 +51,7 @@ p {
 		background-color: #2980b9;
 	}
 
-/* Äëÿ ñòðàíèö */
+/* Ð”Ð»Ñ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ† */
 body > h1 {
 	text-align: center;
 }
